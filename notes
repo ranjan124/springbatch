@@ -1,3 +1,7 @@
 References:
 https://spring.io/guides/gs/scheduling-tasks/
 https://gist.github.com/benas/9355801
+https://docs.spring.io/spring-batch/reference/html/configureJob.html
+https://github.com/ranjan124/springbatch.git
+
+https://crontab.guru/#0_*_*_*_*
